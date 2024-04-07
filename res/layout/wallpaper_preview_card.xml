@@ -47,5 +47,5 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:alpha="0"
-        android:background="@color/preview_pager_background" />
+        android:background="?android:colorPrimary" />
 </androidx.cardview.widget.CardView>

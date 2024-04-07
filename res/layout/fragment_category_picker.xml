@@ -32,7 +32,7 @@
             android:id="@+id/wallpaper_preview_pager"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:background="@color/preview_pager_background"
+            android:background="?android:colorPrimary"
             app:card_style="screen_aspect_ratio"
             app:layout_constrainedHeight="true"
             app:layout_constraintEnd_toEndOf="parent"
